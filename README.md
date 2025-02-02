@@ -1,5 +1,9 @@
 Disease Prediction using Machine Learning 🏥🤖
 
+🚀 Live Demo: Click Here to Try the App 
+
+https://nvs4thmv67633kwhmjmsxu.streamlit.app/
+
 This project is a machine learning-based disease prediction system built using Streamlit for the user interface. It helps users predict the likelihood of having Diabetes, Heart Disease, or Parkinson’s Disease based on input medical parameters.
 
 Features ✨
